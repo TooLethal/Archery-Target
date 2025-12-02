@@ -1,7 +1,3 @@
-Here’s a polished **GitHub project description** for your bullseye rings design:
-
----
-
 # 🎯 CSS Bullseye Rings
 
 A simple, visually striking **HTML + CSS bullseye design** made with concentric circles. Each ring is styled with different colors and sizes, creating a layered target-like effect. Perfect for practicing CSS positioning, flexbox centering, and creative UI design.
